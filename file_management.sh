@@ -1,4 +1,4 @@
-#!/bin/ bash  # The interpreter to use the script "bash"
+#!/bin/bash  # The interpreter to use the script "bash"
 # Step 1: Crete directory 
 mkdir test_directory
 
