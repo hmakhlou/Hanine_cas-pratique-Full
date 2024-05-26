@@ -8,13 +8,13 @@ touch test_directory/file2.txt
 touch test_directory/file3.txt
 
 # Step 3:Display the content of each created file
-echo "Contents of file1.txt:" > test_directory/file1.txt
+echo "Contents of file1.txt:" 
 cat test_directory/file1.txt
 
-echo "Contents of file2.txt:" > test_directory/file2.txt
+echo "Contents of file2.txt:" 
 cat test_directory/file2.txt
 
-echo "Contents of file3.txt:" > test_directory/file3.txt
+echo "Contents of file3.txt:" 
 cat test_directory/file3.txt
 
 # Step 4:Copy files to save directory with ".old "extension
